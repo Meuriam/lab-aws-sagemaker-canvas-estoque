@@ -28,7 +28,8 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 
 ### 3. Analisar
 
--  
+-  ![image](https://github.com/user-attachments/assets/64cf7635-13c0-42e2-a167-5c320a806357)
+
 
 ### 4. Prever
 
