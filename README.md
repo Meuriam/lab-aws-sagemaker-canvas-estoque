@@ -24,7 +24,7 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 
 ### 2. Construir/Treinar
 
--   As variáveis de entrada foram o ID_ESTOQUE, com o objetivo de prever a quantidade necessária de estoque no decorrer no tempo.
+-   As variáveis de entrada foram o ID_ESTOQUE, PREÇO e DATA DO EVENTO, com o objetivo de prever a quantidade necessária de estoque no decorrer no tempo.
 
 ### 3. Analisar
 
